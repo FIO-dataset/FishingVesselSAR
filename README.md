@@ -11,13 +11,13 @@ The dataset's construction process is described in detail in the paper[ **Fishin
 
 4. For the construction of the FishingVesselSAR dataset, the identification model identifies 511 fishing vessels as 116 gillnetters, 72 seiners, 181 trawlers, and 142 fishing vessels of uncertain type. Thus, the final FishingVesselSAR dataset contains SAR chips corresponding to 369 fishing vessels of known types.
 
-## Cite as
+## Citation
 
 **Please cite the following paper if you use FishingVesselSAR in your publications:**
 
 Y. Guan, X. Zhang, S. Chen, et al., "Fishing Vessel Classification in SAR Images using a Novel Deep Learning Model," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3312766.
 
-## Contact
+## Copyright
 
 Copyright at the First Institute of Oceanography, Ministry of Natural Resources.
 
