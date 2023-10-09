@@ -13,11 +13,13 @@ The dataset's construction process is described in detail in the paper[ **Fishin
 
 ## Cite as
 
-**If you feel this dataset is useful, please cite as the following format.**
+**Please cite the following paper if you use FishingVesselSAR in your publications:**
 
 Y. Guan, X. Zhang, S. Chen, et al., "Fishing Vessel Classification in SAR Images using a Novel Deep Learning Model," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3312766.
 
 ## Contact
 
 Copyright at the First Institute of Oceanography, Ministry of Natural Resources.
+
 Please contact us if you have any questions: xi.zhang@fio.org.cn (Prof. Zhang).
+
