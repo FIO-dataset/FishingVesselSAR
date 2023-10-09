@@ -19,4 +19,5 @@ Y. Guan, X. Zhang, S. Chen, et al., "Fishing Vessel Classification in SAR Images
 
 ## Contact
 
+Copyright at the First Institute of Oceanography, Ministry of Natural Resources.
 Please contact us if you have any questions: xi.zhang@fio.org.cn (Prof. Zhang).
